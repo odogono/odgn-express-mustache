@@ -1,0 +1,27 @@
+{
+  "name": "odgn-express-mustache",
+  "version": "0.1.0",
+  "description": "a Mustache view engine for Express",
+  "keywords": [ "express", "mustache", "view engine" ],
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/odogono/odgn-express-mustache.git"
+  },
+  "author": "Alexander Veenendaal <alex@opendoorgonorth.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/odogono/odgn-express-mustache/issues"
+  },
+  "homepage": "https://github.com/odogono/odgn-express-mustache",
+  "devDependencies": {
+    "express": "~3.4.7",
+    "mocha": "~1.16.2"
+  },
+  "dependencies": {
+    "mustache": "~0.8.1"
+  }
+}

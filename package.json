@@ -1,6 +1,6 @@
 {
   "name": "odgn-express-mustache",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "a Mustache view engine for Express",
   "keywords": [ "express", "mustache", "view engine" ],
   "main": "index.js",
@@ -18,10 +18,10 @@
   },
   "homepage": "https://github.com/odogono/odgn-express-mustache",
   "devDependencies": {
-    "express": "~3.4.7",
-    "mocha": "~1.16.2"
+    "express": "~4.13.4",
+    "mocha": "~2.4.5"
   },
   "dependencies": {
-    "mustache": "~0.8.1"
+    "mustache": "~2.2.1"
   }
 }
